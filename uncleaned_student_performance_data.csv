@@ -1,0 +1,651 @@
+Student_ID,Age,Gender,Department,Year_of_Study,Attendance_Percentage,Midterm_Marks,Final_Exam_Marks,Assignment_Score,Internal_Assessment,Study_Hours_per_Week,Backlogs,Parent_Education_Level,Internet_Access,Extra_Curricular
+1176,25,Male,,,64,3,84,11,28,17,yes,,,Sports
+1197,20,M,CSE,First,90,32,53,10,10,9,5,Postgraduate,No,
+1538,19,Male,ECE,3,67,2,27,2,30,2,2,High School,No,
+1503,18,F,,1,60,34,81,8,12,,2,,No,None
+1580,22,Male,,Second,66,50,33,15,7,36,3,Postgraduate,,
+1212,17,F,EEE,First,58,45,58,10,15,37,5,Graduate,No,NSS
+1616,21,Male,,3,46,6,8,19,22,29,0,,Yes,NSS
+1349,20,Male,Mechanical,First,75,46,93,18,15,13,3,Postgraduate,Yes,None
+1186,24,F,IT,2,95,,46,10,16,25,0,,,Sports
+1399,21,female,EEE,First,43,31,80,0,4,16,5,Postgraduate,yes,NSS
+1536,21,male,CSE,First,47,0,79,14,24,7,,None,No,
+1585,17,male,EEE,3,61,16,52,13,16,9,4,High School,,NSS
+1346,22,Female,,1,48,48,93,2,27,6,yes,None,Yes,
+1367,19,M,Mechanical,4,61,13,18,16,30,5,0,Graduate,No,NSS
+1555,22,,,4,58,35,8,12,12,1,0,None,Yes,Music
+1731,23,Female,,2,45,38,42,1,7,37,2,High School,Yes,Music
+1168,,male,,First,85,29,2,,15,23,yes,Postgraduate,,
+1069,23,Female,EEE,1,59,21,49,13,12,30,5,Graduate,yes,
+1433,24,M,EEE,2,93,20,64,4,17,35,,Graduate,yes,Music
+1392,22,male,ECE,Second,64,24,88,3,30,,3,High School,no,Sports
+1513,24,,CSE,1,89,27,68,15,26,19,yes,None,No,Music
+1076,-1,Male,CSE,1,80,8,25,8,14,1,yes,Graduate,no,NSS
+1251,21,F,Mechanical,First,52,19,72,14,24,16,5,Postgraduate,yes,Music
+1007,,male,IT,2,56,6,89,1,3,23,1,None,,Music
+1788,25,Female,ECE,4,55,15,14,5,17,3,4,,Yes,Music
+1445,-1,Male,,4,52,42,89,7,16,22,yes,Postgraduate,no,
+1045,24,male,IT,,100,26,43,7,24,36,yes,High School,Yes,None
+1704,24,Male,Mechanical,2,74,41,38,0,13,39,1,Postgraduate,yes,
+1326,25,F,ECE,2,47,15,92,17,30,28,,High School,,NSS
+1153,20,,,4,92,45,28,5,2,2,4,None,,None
+1184,20,Male,EEE,4,49,33,82,11,0,19,,Graduate,yes,
+1113,24,Female,Civil,1,70,22,46,6,2,,0,High School,No,
+1764,17,,,Second,54,41,33,11,0,22,yes,,yes,Music
+1190,17,,CSE,,83,50,49,16,10,,2,None,Yes,
+1291,23,M,Civil,1,45,20,73,13,20,31,1,Graduate,,None
+1313,24,male,,First,46,NA,8,5,1,12,5,None,No,None
+1202,17,male,Civil,Second,67,3,72,4,29,24,3,None,yes,None
+1463,19,Female,EEE,,,21,30,4,22,19,2,None,,
+1551,24,female,,First,89,42,86,3,20,39,2,None,no,None
+1773,21,,,2,62,49,55,2,12,36,3,Graduate,no,NSS
+1495,19,male,Mechanical,,49,48,91,16,2,18,4,Postgraduate,Yes,Music
+1138,22,Female,EEE,4,53,11,76,12,8,8,4,Graduate,no,NSS
+1484,25,F,IT,4,87,5,68,0,26,3,5,None,no,
+1196,17,female,ECE,3,80,10,95,8,missing,2,2,Graduate,Yes,None
+1073,22,F,ECE,Second,55,0,30,3,0,1,0,Graduate,yes,
+1258,20,F,Civil,1,65,29,97,2,4,26,5,None,yes,NSS
+1705,-1,Male,Mechanical,2,45,47,66,8,28,39,3,Graduate,No,NSS
+1401,,F,,Second,76,19,,8,7,34,,Graduate,No,
+1375,21,female,,,94,0,66,16,27,23,4,Postgraduate,No,None
+1350,22,male,,1,95,39,28,20,17,34,0,None,No,
+1605,-1,F,CSE,3,65,10,38,12,11,36,3,High School,,
+1765,25,Male,ECE,1,63,21,94,4,29,9,yes,High School,Yes,
+1584,,female,ECE,4,54,9,31,12,29,4,2,,No,
+1280,-1,,Civil,Second,,2,42,9,17,33,4,Postgraduate,No,
+1523,17,,,3,45,5,38,5,,6,4,Postgraduate,No,Sports
+1746,22,F,IT,3,50,48,78,7,12,8,2,Graduate,no,Sports
+1449,,Female,IT,4,53,11,87,15,10,15,0,Postgraduate,,NSS
+1318,20,female,,1,63,16,77,8,1,16,2,None,yes,NSS
+1392,22,Female,EEE,3,73,14,78,9,2,21,,High School,,None
+1152,17,,ECE,1,83,15,74,19,15,12,yes,Graduate,No,
+1093,18,Male,Civil,4,73,10,57,12,27,34,,,,Sports
+1760,,,IT,,96,42,8,19,5,5,1,Graduate,yes,Sports
+1225,24,,Civil,1,47,43,60,0,12,24,,High School,Yes,NSS
+1662,24,F,Mechanical,4,97,45,67,10,30,14,1,None,No,
+1357,24,F,,4,62,29,42,13,28,28,2,None,no,
+1482,19,Male,CSE,3,44,15,72,6,19,32,4,Graduate,Yes,Music
+1580,20,female,IT,1,44,20,44,20,1,30,0,None,Yes,
+1220,23,F,IT,Second,60,23,45,2,24,27,5,Graduate,no,Music
+1482,21,M,,,89,NA,60,0,30,37,0,Postgraduate,Yes,Sports
+1020,25,male,CSE,,73,37,30,19,24,21,3,Graduate,,Music
+1517,19,M,Civil,4,78,49,25,,26,40,yes,None,no,Music
+1788,24,male,Civil,,90,6,52,15,17,,,Postgraduate,,Sports
+1034,22,Male,IT,2,99,49,47,3,18,24,,High School,yes,
+1124,24,male,IT,1,40,12,85,17,0,34,1,,yes,Music
+1287,-1,F,Civil,4,87,16,75,9,6,20,4,Graduate,No,NSS
+1698,19,,ECE,2,61,37,90,9,4,20,0,None,no,
+1742,,F,IT,First,64,39,10,15,24,39,,Graduate,yes,
+1416,20,Male,Civil,Second,69,50,,0,3,16,3,,yes,Sports
+1131,17,M,ECE,,41,39,18,19,,16,yes,None,,Sports
+1084,19,M,,,74,1,52,7,15,26,2,,yes,Music
+1403,,Male,CSE,,98,20,2,10,6,23,yes,,Yes,Sports
+1022,,male,ECE,4,87,48,51,4,6,12,,Postgraduate,yes,NSS
+1632,21,Female,Civil,2,77,15,81,8,4,40,4,None,no,Sports
+1580,,,EEE,3,47,50,67,14,6,2,yes,High School,No,Sports
+1204,20,male,,,66,24,3,13,5,0,,Postgraduate,Yes,Sports
+1048,22,F,,1,57,30,51,3,30,4,3,Postgraduate,yes,None
+1785,23,female,IT,3,72,0,29,,28,34,5,,no,
+1525,20,Male,,Second,66,19,95,5,19,11,1,Graduate,Yes,NSS
+1350,25,F,IT,First,77,41,68,0,4,24,2,None,No,
+1108,21,Female,Civil,2,63,32,68,16,19,17,3,None,,
+1746,-1,Male,Mechanical,First,50,13,73,14,4,,2,,yes,
+1394,25,M,,,97,32,22,17,21,40,4,High School,,
+1623,18,M,ECE,3,88,3,81,11,29,17,1,None,yes,
+1655,21,Male,IT,3,75,35,50,20,5,8,4,Postgraduate,,Sports
+1637,19,M,CSE,3,77,10,78,14,29,34,yes,High School,,NSS
+1277,-1,,ECE,4,91,17,15,19,2,29,1,Graduate,,None
+1310,25,Male,IT,3,63,22,39,7,26,4,4,Postgraduate,,NSS
+1036,22,F,Civil,,68,27,26,17,4,17,0,Postgraduate,,NSS
+1261,-1,male,CSE,1,40,12,12,20,14,35,3,Postgraduate,,None
+1457,17,female,CSE,Second,42,40,12,11,4,27,yes,Postgraduate,No,Music
+1475,,Female,Mechanical,2,61,1,97,,9,39,yes,Graduate,yes,Sports
+1763,,male,EEE,Second,71,47,4,10,,21,1,High School,yes,Music
+1567,25,M,,First,57,44,63,16,12,12,4,Graduate,Yes,Music
+1556,18,female,CSE,1,76,24,14,4,21,11,,Graduate,Yes,None
+1216,18,male,Civil,,99,5,14,7,17,16,5,None,Yes,Sports
+1435,-1,Male,Mechanical,2,64,35,49,1,17,30,yes,Postgraduate,No,
+1040,-1,Female,,First,41,45,59,,missing,27,0,Postgraduate,Yes,Sports
+1132,21,Male,IT,4,50,45,8,11,20,15,yes,None,,None
+1414,18,F,EEE,1,89,9,78,1,19,6,0,None,,NSS
+1461,,,CSE,,50,41,86,19,27,11,4,High School,no,NSS
+1798,19,Male,IT,1,63,3,43,20,23,16,3,,,
+1649,,male,Mechanical,3,47,33,8,12,21,5,2,Postgraduate,no,
+1567,-1,female,Mechanical,3,52,35,96,4,16,2,yes,Postgraduate,yes,Music
+1679,23,Female,,Second,91,11,60,16,16,28,0,,no,NSS
+1374,,,CSE,First,50,23,74,4,missing,0,,Graduate,,None
+1711,,male,ECE,First,76,42,49,9,11,18,yes,Graduate,no,
+1662,18,,IT,First,89,4,28,17,21,26,1,None,,None
+1045,19,Male,Civil,First,75,50,43,5,21,28,4,,No,
+1648,18,Female,,2,86,43,47,12,16,40,5,Graduate,yes,Music
+1722,22,F,Civil,4,48,50,29,17,15,40,3,Graduate,Yes,Sports
+1496,-1,,,3,77,3,87,1,14,8,4,Postgraduate,No,Music
+1198,23,M,ECE,First,58,48,14,12,21,38,,Postgraduate,no,NSS
+1101,19,F,ECE,1,47,18,42,12,28,11,0,None,no,None
+1181,23,Female,CSE,First,56,3,14,16,15,32,3,Postgraduate,no,Sports
+1170,25,F,CSE,First,81,20,98,3,0,17,5,,yes,
+1030,18,female,,,83,41,30,12,9,26,5,None,,Sports
+1283,23,Male,,Second,73,23,1,16,3,15,2,,yes,Sports
+1765,17,male,Mechanical,Second,75,37,23,4,11,32,1,High School,no,Music
+1191,17,male,,4,79,17,45,9,4,35,yes,Graduate,no,
+1727,22,F,,4,77,7,48,10,missing,17,5,High School,yes,None
+1739,18,F,Civil,,74,46,77,8,3,15,2,Graduate,,
+1013,24,,,1,58,16,80,18,missing,38,0,,,
+1647,21,female,Civil,Second,52,28,79,0,18,11,3,High School,Yes,NSS
+1489,19,F,ECE,,74,30,12,7,0,12,,Postgraduate,,NSS
+1444,23,,EEE,Second,62,7,12,1,6,7,1,High School,no,
+1107,21,Female,Civil,1,48,42,3,15,missing,15,yes,Graduate,No,NSS
+1623,18,,EEE,2,,39,58,15,18,8,3,None,no,Music
+1498,24,M,,,41,17,12,13,11,14,yes,Postgraduate,Yes,
+1350,20,female,Civil,3,70,12,43,5,13,,3,Postgraduate,,
+1487,17,Male,Mechanical,Second,86,15,82,11,5,0,2,High School,Yes,
+1235,25,M,ECE,2,70,4,62,6,13,29,,Graduate,,NSS
+1530,18,F,,2,45,42,88,7,30,9,0,High School,No,NSS
+1006,23,,ECE,3,69,37,6,,missing,4,,Postgraduate,yes,NSS
+1050,,Male,,2,85,47,8,8,13,21,5,Postgraduate,no,NSS
+1439,17,F,Civil,First,87,10,67,17,16,32,1,,No,None
+1333,,M,ECE,Second,45,1,8,15,17,40,2,Postgraduate,Yes,
+1618,17,,Mechanical,Second,69,40,0,12,24,1,4,,yes,NSS
+1183,24,F,,Second,53,3,99,0,21,22,,High School,Yes,None
+1688,20,female,EEE,2,91,12,85,7,3,20,1,Postgraduate,Yes,NSS
+1422,-1,,Civil,First,67,22,16,12,0,26,3,None,,Music
+1600,,M,,2,76,15,33,1,6,34,2,Graduate,No,None
+1662,20,female,EEE,,43,49,29,13,,13,yes,None,yes,
+1261,19,,,Second,75,40,100,16,2,38,1,Postgraduate,,Music
+1476,19,F,EEE,Second,60,20,8,12,24,32,4,Postgraduate,,Music
+1589,,Male,Civil,Second,50,14,54,16,17,22,0,,No,None
+1234,17,Male,,1,42,20,29,16,26,11,5,Postgraduate,,
+1332,,F,Civil,1,64,40,25,15,5,9,2,,No,
+1775,22,male,ECE,Second,54,49,63,19,6,16,1,None,,NSS
+1226,17,F,IT,Second,52,36,62,12,1,6,5,High School,,
+1470,-1,F,IT,1,82,6,44,13,29,14,0,High School,Yes,
+1086,19,female,,,97,17,97,17,9,1,yes,Postgraduate,Yes,Sports
+1671,,male,,4,44,26,83,17,29,20,yes,High School,No,Music
+1477,,male,ECE,2,49,10,69,8,19,17,,High School,no,Music
+1248,20,M,EEE,Second,65,3,45,13,19,12,0,Postgraduate,No,Music
+1184,,Female,,3,absent,11,14,,15,6,5,None,yes,None
+1634,22,,,2,42,16,0,5,7,14,,Graduate,No,None
+1077,-1,M,IT,,92,19,0,8,16,23,,,no,Music
+1712,,,IT,,73,45,76,4,21,,2,High School,no,Sports
+1086,17,Female,,2,81,32,35,4,28,12,3,None,Yes,NSS
+1699,25,Male,CSE,2,53,35,30,18,26,35,yes,Graduate,No,
+1231,17,male,Mechanical,1,78,17,58,0,13,23,3,Graduate,,NSS
+1316,24,,EEE,1,85,5,47,0,7,16,5,,no,
+1576,17,Male,CSE,3,53,43,27,20,30,19,3,High School,No,NSS
+1401,22,Male,,2,54,38,90,20,15,19,3,,No,Music
+1036,,male,IT,2,65,3,,2,29,35,3,Postgraduate,yes,
+1590,24,Male,IT,1,76,27,92,2,0,5,0,Postgraduate,Yes,Music
+1289,-1,M,ECE,First,49,14,61,13,2,20,,Postgraduate,,
+1630,20,female,CSE,2,81,4,0,,3,1,,None,no,
+1728,18,male,Mechanical,Second,49,,75,15,24,7,2,None,No,
+1162,17,male,Civil,,49,34,5,6,,26,,,,Sports
+1046,19,M,CSE,1,45,43,36,0,17,29,yes,High School,no,NSS
+1629,23,F,,,98,10,96,6,21,31,5,,No,None
+1476,18,M,CSE,Second,97,20,39,10,19,16,3,Graduate,Yes,Music
+1399,25,F,CSE,2,63,13,fail,15,6,30,0,Postgraduate,No,NSS
+1046,18,Female,,First,100,50,84,16,29,8,0,None,no,None
+1043,19,female,Mechanical,2,62,11,97,4,14,27,0,Postgraduate,no,Sports
+1291,19,,IT,1,42,NA,6,7,13,17,5,Graduate,Yes,
+1096,,Male,Civil,3,59,21,20,15,10,24,,None,,None
+1184,24,Female,ECE,4,45,1,0,0,27,32,4,High School,No,
+1231,17,Female,IT,4,79,13,64,11,15,23,yes,Graduate,,Music
+1266,21,,,2,49,19,25,16,28,21,,High School,No,None
+1270,21,,ECE,First,47,42,24,6,28,13,4,High School,,None
+1342,17,M,,1,78,14,2,2,27,35,3,High School,no,NSS
+1002,22,M,,4,79,32,96,2,14,28,4,None,yes,Music
+1288,21,M,Civil,First,84,45,28,20,2,2,,Postgraduate,yes,
+1209,24,female,EEE,First,93,26,66,13,23,11,5,None,no,NSS
+1561,18,Male,,,61,25,79,4,26,37,0,,yes,None
+1666,,Male,ECE,3,75,22,69,4,16,28,1,,,Sports
+1498,17,female,CSE,2,,9,50,8,0,15,2,High School,yes,Sports
+1162,,M,EEE,2,66,32,55,8,0,24,yes,High School,No,NSS
+1256,-1,Female,Civil,Second,53,12,55,13,28,12,,Graduate,no,
+1339,24,Female,IT,1,43,32,60,15,21,27,3,High School,,
+1577,-1,male,CSE,First,49,10,34,1,13,5,3,Graduate,Yes,Music
+1462,18,Female,Civil,4,43,3,99,18,2,9,yes,High School,Yes,
+1267,22,male,CSE,Second,82,29,52,5,23,32,,,,Music
+1437,23,F,,1,76,13,65,12,1,18,1,None,No,
+1507,25,male,,1,85,41,48,,22,11,2,,,
+1540,,male,Mechanical,,75,25,3,0,,20,,Graduate,,
+1157,21,M,EEE,1,76,23,97,4,29,11,0,High School,,
+1009,17,female,Civil,4,98,35,34,3,22,1,1,High School,No,NSS
+1760,23,M,,1,69,39,99,6,17,14,yes,Postgraduate,Yes,Sports
+1482,,F,ECE,Second,62,40,99,,29,11,4,High School,No,
+1613,20,M,Civil,3,52,NA,76,15,4,6,,High School,No,
+1429,19,Female,IT,,82,2,86,2,11,36,0,High School,yes,NSS
+1767,17,M,EEE,4,73,27,21,18,7,10,1,None,,NSS
+1299,18,,,First,55,,25,7,1,17,1,None,no,
+1349,,Male,IT,4,62,30,57,12,1,6,5,High School,yes,Sports
+1520,,F,Civil,2,63,NA,63,11,,13,,None,no,Sports
+1754,17,Female,,2,92,27,6,12,28,4,2,High School,yes,
+1144,25,Female,,First,,16,31,18,11,1,1,Graduate,,None
+1641,19,male,IT,First,70,36,9,18,0,9,0,,,
+1211,24,female,Mechanical,2,,31,1,19,21,31,yes,Postgraduate,No,Music
+1232,18,Female,CSE,1,100,37,95,19,7,14,2,,No,NSS
+1689,,,CSE,4,61,50,11,18,19,21,5,Graduate,no,
+1449,23,Male,Mechanical,4,96,37,67,4,22,9,1,Graduate,no,
+1045,,Female,,3,62,39,3,20,1,20,3,Postgraduate,yes,
+1522,21,male,,1,60,45,52,20,12,20,3,None,No,None
+1441,23,female,IT,2,76,NA,68,10,20,4,0,High School,yes,
+1177,25,Male,CSE,1,75,44,7,5,26,9,0,None,yes,None
+1640,18,Male,Mechanical,Second,82,,87,11,7,14,4,High School,,
+1428,24,F,EEE,1,83,13,77,2,20,,yes,High School,,Music
+1518,,female,ECE,3,73,43,97,7,26,20,2,Postgraduate,,None
+1145,,Female,Civil,,58,11,100,18,27,38,1,None,,NSS
+1012,-1,Male,IT,First,83,7,46,16,24,9,5,Graduate,no,
+1161,22,Female,Civil,3,76,16,68,16,missing,8,,Graduate,Yes,
+1549,,Male,IT,First,absent,NA,29,14,19,34,2,Postgraduate,no,Sports
+1070,25,Male,CSE,First,99,6,66,1,11,24,3,None,no,
+1364,23,male,Mechanical,2,61,29,52,7,11,31,,,yes,None
+1606,18,,ECE,,53,12,62,0,19,35,1,,No,None
+1050,17,male,ECE,Second,54,8,28,10,14,34,,Graduate,no,
+1367,24,male,ECE,,83,6,83,14,30,23,0,Postgraduate,,
+1491,17,M,CSE,First,83,50,91,19,17,25,0,,,
+1437,24,M,EEE,4,75,7,40,9,22,31,3,None,,Sports
+1736,17,female,ECE,Second,42,36,22,6,3,40,yes,Graduate,Yes,
+1648,-1,M,EEE,1,40,13,16,4,2,32,1,,yes,Sports
+1093,-1,F,Mechanical,Second,87,5,12,14,26,7,0,None,No,NSS
+1496,20,male,,4,50,30,20,18,1,17,3,,no,None
+1691,,Male,CSE,First,89,1,78,16,25,0,4,,No,Music
+1689,17,female,CSE,3,84,NA,45,9,18,35,0,Graduate,,
+1560,21,Female,EEE,3,absent,2,18,18,14,4,1,Graduate,yes,Music
+1639,17,Male,EEE,,62,30,41,5,15,30,0,Postgraduate,yes,None
+1462,-1,Female,CSE,3,72,32,14,3,8,35,2,None,No,Music
+1212,25,,Mechanical,1,87,38,50,,16,12,2,,yes,None
+1106,23,F,IT,First,43,5,45,,,40,3,None,yes,NSS
+1078,19,Female,IT,2,56,22,33,5,12,0,4,,Yes,NSS
+1537,23,F,Civil,2,70,21,77,6,missing,9,2,Graduate,yes,None
+1068,19,Female,,3,absent,14,51,16,12,40,yes,Graduate,No,NSS
+1562,17,M,ECE,4,69,29,76,12,27,34,0,High School,Yes,Music
+1491,18,,EEE,3,,10,36,19,22,32,2,High School,yes,Music
+1417,23,Male,,4,55,27,75,16,25,20,5,,Yes,None
+1034,21,M,ECE,1,64,23,41,10,19,18,,Postgraduate,no,Music
+1332,,female,ECE,2,97,50,15,15,15,28,1,None,yes,Sports
+1069,21,female,,Second,62,48,58,12,1,8,2,High School,yes,
+1231,18,Female,IT,1,64,NA,36,3,0,38,4,Graduate,Yes,None
+1608,24,male,,,82,4,55,1,29,8,3,None,yes,Music
+1638,23,female,EEE,4,43,46,67,1,13,4,5,Postgraduate,yes,NSS
+1764,19,Female,Mechanical,3,84,48,37,11,9,19,3,High School,No,Sports
+1574,24,female,EEE,Second,48,2,33,5,17,2,0,Graduate,,None
+1079,17,,Civil,Second,84,34,,17,26,24,yes,High School,No,None
+1428,18,F,,First,85,8,29,6,3,,,High School,,NSS
+1589,24,Male,,First,54,30,67,3,11,4,5,None,No,
+1401,24,male,IT,2,88,41,26,8,21,12,2,Graduate,,Music
+1370,19,female,IT,Second,85,46,84,16,4,39,,Postgraduate,no,NSS
+1635,20,male,,First,93,24,85,0,19,9,0,None,no,None
+1411,17,female,CSE,1,72,16,74,5,18,4,,,yes,None
+1381,17,male,,First,84,18,99,,missing,26,5,Postgraduate,Yes,NSS
+1521,22,Male,ECE,3,82,39,70,,21,12,,Graduate,,Music
+1693,,M,ECE,,84,46,47,8,15,38,3,High School,No,Music
+1607,,female,Mechanical,First,53,47,22,4,14,22,2,Graduate,No,NSS
+1720,25,M,CSE,2,56,2,72,13,8,25,1,Graduate,No,
+1407,17,Male,,1,99,50,63,1,30,7,2,Graduate,Yes,Sports
+1185,,male,,3,57,11,80,6,22,38,1,Postgraduate,yes,
+1182,18,,,Second,55,3,53,15,29,22,yes,High School,No,
+1547,21,Male,EEE,First,95,8,52,7,2,27,3,High School,No,Music
+1781,17,F,EEE,1,47,46,,0,missing,15,yes,Graduate,No,
+1261,,,CSE,2,99,26,fail,2,17,25,2,,No,
+1045,,F,EEE,,60,,86,,3,24,3,,yes,
+1312,,male,CSE,4,76,0,92,13,17,20,5,Postgraduate,,Music
+1277,20,female,EEE,Second,79,,67,0,9,37,yes,,yes,NSS
+1434,19,,CSE,4,94,23,29,18,15,19,1,,,NSS
+1275,20,F,ECE,2,98,41,84,6,,8,5,High School,No,Music
+1185,22,Male,CSE,2,77,12,88,19,13,,1,Graduate,yes,None
+1662,19,female,ECE,4,66,10,95,6,15,13,2,,No,None
+1122,17,Male,CSE,,59,38,35,8,29,5,,High School,Yes,
+1407,25,Female,Mechanical,3,91,33,20,13,26,40,yes,Postgraduate,Yes,None
+1019,23,F,,3,51,39,23,11,16,36,3,Postgraduate,yes,Sports
+1248,-1,F,ECE,,69,10,,13,10,30,5,Postgraduate,yes,
+1006,23,F,Civil,Second,80,15,89,4,11,35,0,,Yes,
+1646,17,female,IT,Second,59,26,55,9,14,38,1,Graduate,no,Music
+1480,22,male,ECE,Second,66,1,37,9,1,23,3,High School,Yes,
+1158,-1,,,1,61,15,61,5,6,4,1,,yes,None
+1401,18,F,CSE,1,86,16,88,8,3,2,3,High School,,NSS
+1247,19,Female,IT,1,85,30,25,9,6,19,5,High School,,NSS
+1069,24,Male,Mechanical,3,64,NA,90,4,24,17,0,Graduate,Yes,
+1239,20,male,Mechanical,3,71,47,75,0,6,18,3,,yes,Sports
+1103,,F,IT,Second,50,13,78,10,17,10,yes,Graduate,yes,None
+1718,19,,CSE,4,61,44,0,13,25,12,5,,,NSS
+1451,,,EEE,4,60,NA,87,9,18,33,2,None,,Music
+1089,18,Female,Civil,3,77,34,,8,22,11,0,Postgraduate,,Music
+1092,23,female,,First,55,34,87,9,26,20,yes,Postgraduate,no,None
+1440,,F,,1,58,33,6,9,27,19,3,Postgraduate,yes,
+1017,,M,CSE,First,57,39,4,0,1,19,5,None,no,Music
+1495,,female,Civil,3,55,42,6,10,24,38,3,None,No,Sports
+1381,22,,ECE,3,69,30,40,17,16,19,4,,Yes,
+1646,24,male,IT,1,95,50,,12,8,38,2,,,
+1105,,Male,Civil,First,48,27,15,9,2,30,3,High School,yes,None
+1606,25,male,CSE,,64,34,37,10,20,2,5,None,No,None
+1074,25,Female,,Second,67,8,53,13,24,22,5,Graduate,no,
+1429,25,M,ECE,2,95,49,68,6,7,16,yes,High School,yes,
+1696,25,female,ECE,,42,5,98,7,18,6,yes,Postgraduate,,
+1296,,F,,,96,16,17,5,22,19,5,High School,Yes,Sports
+1207,,Male,,First,45,2,59,9,15,31,2,None,No,
+1191,,Female,,4,48,10,45,13,21,35,,High School,Yes,None
+1387,25,male,,,96,36,16,4,4,34,4,,Yes,Sports
+1550,,Female,Civil,First,55,,5,9,15,17,5,Postgraduate,Yes,None
+1343,20,Male,CSE,,53,16,86,9,22,13,4,Graduate,,None
+1242,,female,,1,78,32,95,18,10,17,2,High School,no,
+1266,18,Female,Civil,Second,62,18,35,9,16,31,1,High School,No,NSS
+1676,,M,,,79,1,24,10,24,11,4,High School,no,
+1528,,male,CSE,1,100,35,53,19,14,7,4,Graduate,no,None
+1673,17,F,ECE,2,94,15,92,2,19,39,2,High School,,None
+1199,-1,,IT,Second,86,18,39,12,missing,15,2,None,,
+1469,18,F,Civil,4,88,13,89,6,2,40,4,Postgraduate,yes,Music
+1213,25,,IT,2,45,16,91,11,24,29,0,Postgraduate,no,
+1546,-1,,ECE,3,47,31,25,12,5,15,0,High School,No,None
+1534,17,male,EEE,3,70,26,11,19,24,17,,,no,
+1268,,female,EEE,3,95,40,64,14,7,4,,Postgraduate,Yes,Music
+1304,25,male,Mechanical,Second,64,40,13,11,10,31,3,Postgraduate,,
+1140,24,female,CSE,,58,50,61,11,7,14,yes,None,Yes,Music
+1037,21,male,CSE,1,52,15,63,10,16,34,2,,no,Music
+1457,21,Female,EEE,,79,10,97,6,13,21,5,Postgraduate,Yes,Music
+1750,17,male,CSE,3,54,46,8,18,,11,5,,no,
+1684,22,male,Mechanical,2,90,9,64,13,23,0,5,Graduate,,None
+1766,,Male,,2,59,29,30,7,19,7,,Graduate,Yes,
+1712,20,M,ECE,4,41,41,64,5,25,20,0,Graduate,Yes,NSS
+1776,20,Female,Mechanical,1,47,17,19,18,14,21,1,Graduate,No,Sports
+1406,23,male,Civil,Second,74,10,59,15,29,13,,Postgraduate,No,NSS
+1127,18,,CSE,1,47,24,46,,10,8,4,,No,None
+1276,18,M,IT,First,58,45,23,6,missing,19,,,No,
+1302,22,Female,,,41,0,97,15,6,15,yes,Postgraduate,yes,
+1435,19,,IT,3,74,27,52,9,,17,,High School,no,
+1228,17,Female,Civil,First,78,NA,39,,2,17,4,High School,Yes,
+1546,22,Male,Civil,Second,82,38,20,11,15,38,1,,,NSS
+1777,17,female,CSE,1,88,9,14,7,5,38,,None,No,NSS
+1720,20,Female,IT,2,56,46,90,14,19,23,4,Graduate,Yes,
+1787,21,M,EEE,2,59,18,2,7,29,21,5,Graduate,no,Music
+1444,,Male,ECE,4,46,35,87,12,3,5,0,Graduate,Yes,
+1594,18,Male,ECE,1,86,44,26,16,10,37,5,Postgraduate,yes,
+1104,20,Female,,2,61,48,16,,16,35,2,None,,NSS
+1585,25,M,IT,4,67,46,55,5,24,0,1,,Yes,
+1153,22,M,IT,3,90,50,88,,18,12,0,High School,No,
+1269,21,F,ECE,,84,3,30,2,23,3,5,None,Yes,Sports
+1690,19,F,,First,80,24,23,20,0,29,5,Postgraduate,yes,
+1227,18,F,CSE,3,51,19,47,2,,22,2,High School,yes,None
+1196,20,Female,ECE,First,47,4,87,11,19,12,1,Graduate,no,Sports
+1125,20,,Mechanical,Second,95,6,77,3,18,14,0,None,Yes,
+1609,18,,,Second,70,8,81,8,,25,5,None,,
+1731,23,male,Mechanical,2,46,35,15,19,9,0,2,Graduate,,Sports
+1338,23,F,CSE,4,41,17,31,15,29,39,3,None,Yes,None
+1716,24,F,CSE,,72,24,54,9,10,10,2,None,yes,Music
+1130,23,M,IT,3,58,36,51,6,22,8,0,None,,NSS
+1497,24,F,EEE,,89,27,78,6,20,3,yes,Graduate,Yes,None
+1724,18,Male,Civil,,64,13,94,6,27,18,yes,High School,no,Music
+1556,22,female,CSE,Second,83,21,50,16,21,4,3,,Yes,Sports
+1179,20,Female,IT,3,50,39,60,4,18,29,5,Graduate,Yes,
+1195,23,Female,CSE,,100,20,37,18,25,,2,High School,Yes,Music
+1112,21,F,Mechanical,2,81,35,77,16,missing,1,2,Postgraduate,No,NSS
+1137,,Male,Mechanical,,absent,41,63,,27,0,3,None,No,NSS
+1763,17,Female,,4,75,42,72,12,11,11,5,Postgraduate,no,
+1575,21,male,Mechanical,First,47,2,89,14,29,18,3,Graduate,no,NSS
+1085,-1,female,ECE,,50,NA,93,,3,1,4,High School,No,Music
+1314,20,Female,Civil,4,59,7,73,13,11,29,3,None,,
+1384,25,male,IT,1,55,29,2,13,17,5,1,None,Yes,
+1459,19,Male,IT,Second,55,25,8,19,9,6,5,High School,no,Music
+1161,25,Male,,Second,49,42,7,2,5,14,4,Graduate,No,Sports
+1255,,F,,3,76,26,39,10,30,14,3,High School,No,None
+1750,20,male,Mechanical,2,89,32,10,20,12,33,1,High School,No,None
+1708,,M,Civil,,97,45,84,5,20,11,,,no,NSS
+1029,19,Male,CSE,2,98,,62,16,7,18,yes,High School,no,NSS
+1694,18,male,ECE,2,96,39,58,15,25,11,1,High School,no,
+1080,,male,ECE,1,47,44,88,17,18,16,1,,,
+1430,-1,Male,,4,73,13,52,6,15,6,4,None,no,NSS
+1615,23,Female,Mechanical,3,80,27,83,17,4,17,5,None,No,
+1330,,female,,,93,22,52,7,27,7,5,None,Yes,Music
+1042,21,Female,IT,3,66,44,51,12,30,8,3,,No,Sports
+1293,,,Mechanical,Second,87,16,23,5,21,14,yes,,Yes,None
+1425,23,Male,Civil,1,92,3,39,8,16,23,1,Graduate,,
+1781,-1,Male,Civil,1,92,31,81,13,9,20,0,Graduate,No,Sports
+1355,24,F,ECE,2,82,36,17,8,0,0,0,None,yes,
+1677,25,Female,,4,59,34,30,3,29,3,2,Graduate,,
+1710,,Female,Mechanical,1,76,32,80,11,17,35,4,High School,no,Music
+1060,,Male,Civil,4,100,31,26,19,10,16,2,Graduate,no,Sports
+1336,,F,,3,99,46,59,4,17,13,3,,Yes,None
+1132,23,male,EEE,3,87,34,32,17,26,3,3,Postgraduate,no,
+1166,21,M,ECE,3,77,6,44,18,8,38,2,Postgraduate,No,
+1371,23,,EEE,First,84,33,,20,4,4,0,High School,No,Sports
+1087,21,female,IT,2,61,4,15,5,3,28,4,,no,
+1687,22,F,Civil,,42,17,0,20,23,24,1,Postgraduate,yes,
+1015,24,F,Mechanical,,66,37,73,,25,21,0,Graduate,yes,
+1660,21,male,ECE,1,86,46,18,3,11,5,0,None,,
+1179,17,Female,Civil,,46,21,30,16,10,,0,Postgraduate,no,
+1365,22,female,EEE,2,78,45,55,19,6,25,yes,None,yes,
+1294,19,M,EEE,1,77,17,77,,0,7,0,Graduate,no,Sports
+1314,22,F,,First,51,14,94,19,21,38,3,Graduate,,
+1495,21,Male,,First,72,46,71,1,14,,,Postgraduate,no,Music
+1344,22,female,Mechanical,First,51,3,17,11,18,39,2,None,Yes,NSS
+1582,18,F,CSE,Second,66,12,3,13,0,27,5,Postgraduate,no,NSS
+1729,24,,EEE,4,76,41,57,10,9,15,0,Graduate,No,
+1268,21,female,IT,Second,63,,65,1,0,29,,Graduate,yes,Sports
+1539,21,F,,First,51,32,98,2,28,,5,Postgraduate,Yes,Music
+1502,21,female,,1,86,6,78,0,11,40,5,Graduate,Yes,None
+1291,19,,,First,79,3,2,14,6,33,2,Postgraduate,No,NSS
+1593,25,F,,4,57,27,5,10,28,24,2,None,No,
+1196,24,F,,Second,56,14,38,14,12,20,yes,Graduate,Yes,Music
+1517,23,female,ECE,4,88,31,59,15,13,21,1,Graduate,No,None
+1617,23,female,CSE,First,92,5,1,4,7,25,1,Postgraduate,Yes,Music
+1136,25,M,Civil,2,62,33,35,15,6,24,yes,None,yes,Music
+1235,17,Female,EEE,Second,68,15,28,12,3,28,5,Postgraduate,no,Sports
+1625,23,male,,Second,71,43,1,8,25,39,4,Postgraduate,Yes,
+1259,19,female,,2,46,48,15,5,26,0,1,,,None
+1073,23,,EEE,First,61,25,43,6,18,12,1,Graduate,no,NSS
+1517,25,Female,IT,Second,43,18,16,3,28,1,2,Graduate,,
+1513,21,M,ECE,Second,92,3,50,20,10,32,3,None,No,
+1693,24,M,EEE,Second,42,9,62,11,5,38,1,,Yes,NSS
+1626,25,M,ECE,,95,18,18,14,3,21,,,no,Sports
+1533,,male,,1,44,23,21,6,missing,10,4,Graduate,Yes,Sports
+1637,20,M,ECE,3,64,39,87,17,12,29,0,Postgraduate,,Music
+1478,20,Male,,,61,0,73,9,25,18,0,Graduate,yes,
+1544,-1,female,Civil,First,87,31,98,14,6,33,0,,Yes,Music
+1369,21,M,ECE,,60,9,74,7,13,8,0,Graduate,no,None
+1562,17,Male,,,52,7,36,8,20,36,2,Graduate,No,Music
+1369,19,,Mechanical,2,59,4,70,4,22,14,2,,no,
+1235,,male,Mechanical,,96,13,9,11,3,1,yes,High School,yes,Music
+1151,25,male,CSE,3,,28,35,9,3,19,1,,yes,
+1671,25,Male,CSE,2,75,29,12,,16,25,1,None,,
+1115,19,male,IT,2,50,40,98,14,28,12,5,Graduate,yes,Sports
+1163,-1,male,EEE,First,56,38,6,18,22,12,5,Graduate,Yes,None
+1085,22,Male,,1,81,38,37,11,0,30,yes,Graduate,,Music
+1080,23,female,Mechanical,Second,98,12,8,7,7,8,0,,No,
+1405,25,F,,2,42,8,74,7,12,4,4,Graduate,,
+1402,17,male,Mechanical,1,43,22,94,10,9,39,4,Graduate,Yes,None
+1395,24,Female,CSE,,87,6,33,11,25,14,0,High School,,Sports
+1001,20,M,EEE,3,40,27,66,19,25,16,4,High School,yes,NSS
+1227,24,male,Mechanical,,99,12,85,4,14,31,5,,no,Music
+1676,25,Female,EEE,4,81,3,24,12,10,20,0,Postgraduate,No,None
+1120,-1,Female,,3,58,22,1,9,13,14,1,Graduate,yes,None
+1119,22,M,EEE,2,78,16,92,7,14,29,,Graduate,No,Sports
+1157,22,F,EEE,,80,14,98,8,24,30,4,None,no,
+1426,17,Female,,Second,58,29,42,6,29,17,0,,yes,
+1174,23,Female,IT,2,43,17,92,7,8,32,0,High School,Yes,None
+1445,21,F,EEE,Second,73,32,84,4,8,25,3,None,Yes,
+1215,-1,F,,1,100,30,76,6,0,40,5,,No,None
+1088,18,female,IT,Second,94,0,96,11,0,37,1,High School,Yes,Sports
+1477,,female,,First,67,50,84,18,21,30,5,Graduate,no,
+1244,,Male,Mechanical,3,47,43,83,0,16,26,3,High School,Yes,None
+1377,25,male,EEE,1,65,23,85,,3,7,1,Graduate,yes,
+1012,20,male,ECE,3,83,16,59,11,17,40,yes,None,yes,NSS
+1407,,male,EEE,,84,50,36,12,7,10,0,Postgraduate,no,Music
+1094,22,F,,2,95,35,45,18,7,31,,Postgraduate,yes,
+1360,-1,female,Mechanical,,61,5,19,9,25,9,5,High School,yes,Sports
+1311,21,M,IT,2,44,7,13,13,9,13,yes,None,yes,
+1683,24,,EEE,4,52,25,84,20,9,2,3,None,yes,Music
+1763,20,male,EEE,1,74,29,55,18,17,12,,Postgraduate,No,
+1393,,M,IT,,65,11,82,,16,21,yes,High School,No,Music
+1679,,Female,EEE,Second,83,38,70,1,12,18,3,None,No,None
+1091,23,Male,Mechanical,First,81,20,18,0,24,32,0,Postgraduate,,NSS
+1146,23,F,ECE,Second,75,14,6,4,18,12,3,Postgraduate,Yes,Music
+1145,,Male,CSE,,50,42,73,8,15,9,1,None,no,
+1584,22,Female,,4,64,47,18,15,21,9,2,Postgraduate,Yes,Sports
+1631,,male,CSE,4,93,27,1,5,12,13,3,Postgraduate,no,
+1057,-1,Female,Civil,4,53,16,44,14,24,21,4,Postgraduate,yes,
+1246,19,M,EEE,First,52,46,37,5,3,25,4,None,Yes,NSS
+1773,24,M,Civil,First,45,24,43,17,7,12,5,High School,No,Music
+1767,24,Female,,First,69,23,21,5,15,6,yes,Postgraduate,no,NSS
+1175,23,male,,4,64,10,8,12,missing,37,4,Graduate,yes,None
+1068,-1,Female,,1,57,23,15,10,12,22,,Graduate,Yes,Music
+1241,20,male,,4,99,2,18,20,9,31,4,Postgraduate,yes,
+1728,19,male,ECE,First,83,24,23,0,6,15,4,High School,No,NSS
+1797,17,male,Civil,2,57,20,52,5,14,27,5,None,yes,
+1685,,female,Mechanical,3,70,9,38,8,22,21,yes,,no,Sports
+1293,21,Male,EEE,2,62,34,69,1,29,25,4,None,no,
+1032,-1,,Mechanical,2,78,9,87,7,5,22,2,None,no,Sports
+1305,,male,,4,,50,77,10,25,28,0,Graduate,Yes,Sports
+1553,20,male,CSE,1,66,40,42,,21,23,yes,High School,,
+1635,17,M,Civil,2,52,12,74,14,missing,5,5,Postgraduate,yes,Sports
+1188,18,Male,IT,3,41,24,54,0,5,28,0,,Yes,None
+1256,17,female,Mechanical,2,47,0,24,5,12,14,5,Postgraduate,Yes,Sports
+1321,-1,F,IT,3,77,41,15,15,23,39,3,Graduate,yes,Music
+1029,20,,Civil,3,63,2,,6,3,25,4,Postgraduate,no,NSS
+1008,19,Male,IT,3,79,10,22,15,29,36,2,Graduate,,Music
+1556,17,Male,,,69,,71,5,26,3,2,,,
+1347,22,male,CSE,First,98,5,51,12,28,,yes,Graduate,Yes,None
+1134,25,Male,,4,69,17,17,1,4,9,2,Graduate,no,NSS
+1333,20,M,ECE,First,47,14,58,6,20,40,0,High School,,Sports
+1214,,Male,ECE,2,47,2,94,15,5,37,1,Postgraduate,yes,
+1602,19,,EEE,2,57,29,34,12,8,38,0,None,No,
+1693,21,,EEE,2,76,47,51,,0,40,4,Postgraduate,no,Sports
+1090,,Female,Mechanical,Second,95,4,61,,,29,,Graduate,yes,Music
+1379,-1,Male,,Second,91,45,55,19,6,24,5,,yes,
+1022,,,Mechanical,3,51,24,22,12,9,40,,None,Yes,
+1615,22,,,3,absent,15,3,18,4,19,0,Graduate,yes,
+1108,18,female,Civil,1,47,15,22,6,23,28,3,,no,Sports
+1377,24,F,,4,77,43,42,16,30,32,4,High School,no,None
+1166,23,,,3,52,31,76,10,,24,5,None,no,None
+1794,23,male,Mechanical,3,67,4,61,3,20,21,yes,Postgraduate,no,Sports
+1383,-1,M,Mechanical,2,82,50,58,10,0,31,yes,Postgraduate,Yes,None
+1581,20,M,EEE,3,82,34,47,2,29,14,5,High School,Yes,
+1414,,female,Mechanical,3,85,24,80,7,7,1,3,High School,yes,NSS
+1151,,female,EEE,1,56,47,95,4,26,12,5,Postgraduate,No,Sports
+1033,,female,Mechanical,,87,23,12,5,17,36,5,None,yes,
+1471,25,,CSE,Second,53,37,22,,9,33,yes,Postgraduate,yes,NSS
+1739,25,Female,Mechanical,1,45,41,100,0,12,38,4,None,,None
+1011,23,female,Mechanical,1,95,0,28,19,16,15,yes,High School,No,
+1334,21,,EEE,,95,13,67,6,2,29,2,High School,No,
+1676,24,Female,Civil,2,66,35,90,18,24,25,2,High School,,None
+1551,21,female,,3,95,30,50,17,25,20,5,None,,
+1360,25,Female,,4,60,35,48,15,13,9,4,Postgraduate,Yes,None
+1625,17,,,4,72,7,,8,1,26,yes,High School,no,Sports
+1465,17,,EEE,2,93,37,71,19,13,29,yes,,No,NSS
+1513,,,EEE,1,75,6,13,0,18,4,1,Graduate,yes,Sports
+1083,20,,IT,3,96,48,63,16,18,20,2,,no,
+1775,22,M,ECE,First,78,34,20,10,19,0,0,Graduate,yes,Sports
+1259,22,M,EEE,1,73,11,36,10,24,39,yes,High School,yes,NSS
+1015,24,Male,,,57,30,,14,2,31,2,High School,,None
+1687,18,F,,Second,85,34,56,14,28,14,,None,,
+1323,25,,,Second,83,36,83,0,16,10,2,Graduate,no,
+1288,25,,Civil,3,90,11,70,11,9,24,,,no,
+1078,17,Male,,,77,28,100,3,8,27,3,High School,No,Music
+1477,24,,CSE,1,78,37,62,13,28,27,5,High School,No,NSS
+1170,-1,F,Mechanical,,80,42,82,13,12,10,3,High School,no,None
+1155,17,,ECE,1,83,9,28,5,11,40,0,High School,,Music
+1616,23,F,ECE,First,54,46,68,2,13,7,0,High School,,NSS
+1787,18,male,CSE,3,76,45,31,4,14,38,0,None,No,Sports
+1341,,male,ECE,First,40,7,79,9,7,10,1,Graduate,no,
+1536,25,female,IT,,83,3,0,1,29,7,2,High School,Yes,
+1696,25,Female,,4,97,NA,76,0,22,36,3,High School,yes,Sports
+1349,-1,M,,3,71,30,20,7,19,7,5,None,yes,
+1506,18,F,CSE,Second,81,28,22,6,30,20,1,Postgraduate,yes,Sports
+1720,22,Female,CSE,Second,61,0,84,16,6,18,5,,yes,
+1770,-1,F,,1,80,30,87,15,22,21,4,High School,No,Sports
+1793,,M,Mechanical,First,50,48,,18,4,10,3,High School,Yes,NSS
+1616,18,male,CSE,4,,26,94,4,21,0,yes,,no,None
+1555,18,Male,CSE,1,63,45,6,17,23,14,1,,yes,
+1048,,male,Civil,Second,85,35,12,0,28,0,,,no,
+1428,23,Female,Mechanical,,88,34,64,13,12,8,3,High School,Yes,Sports
+1597,20,F,,2,65,24,20,2,16,29,,High School,yes,Sports
+1201,-1,Female,ECE,,64,44,13,11,missing,23,2,,no,None
+1344,,Male,Mechanical,Second,90,25,30,4,8,21,yes,Graduate,no,NSS
+1687,23,Female,,3,64,18,84,3,24,2,,None,,Sports
+1382,,female,IT,Second,62,35,62,8,8,28,3,None,No,
+1540,20,F,Civil,2,61,31,70,8,24,28,yes,Postgraduate,,NSS
+1292,23,Female,Civil,,99,39,8,1,11,18,4,Graduate,Yes,
+1207,18,,Mechanical,,53,10,12,18,14,31,,Graduate,yes,None
+1151,17,Female,Mechanical,4,45,21,46,10,18,29,,High School,,
+1629,23,male,Mechanical,4,60,NA,3,15,20,18,1,High School,yes,
+1602,23,F,CSE,Second,90,4,36,2,24,6,1,Graduate,no,None
+1118,-1,Female,,1,83,31,41,8,28,7,0,None,No,
+1702,17,Male,CSE,4,49,19,25,16,16,24,0,None,yes,Sports
+1794,23,Male,ECE,,59,42,90,9,22,11,2,None,Yes,None
+1543,,female,EEE,2,50,5,52,2,6,38,,Graduate,no,NSS
+1107,17,Female,Civil,Second,53,37,89,6,26,19,0,Postgraduate,No,None
+1589,25,,IT,Second,43,35,28,20,11,1,5,,,NSS
+1442,18,male,,,50,NA,99,19,22,33,3,Graduate,,
+1762,18,male,Civil,,47,30,21,3,18,16,4,None,Yes,None
+1249,19,Female,CSE,1,72,20,57,7,,22,,None,No,None
+1444,18,male,Mechanical,1,49,44,30,3,1,4,,,,None
+1601,-1,Male,CSE,First,92,35,61,2,8,10,4,None,yes,
+1343,20,F,EEE,,88,15,87,5,17,26,yes,None,,
+1156,17,male,IT,1,43,32,42,4,13,,2,Graduate,no,Sports
+1387,20,male,Civil,First,51,6,69,11,9,4,5,,no,
+1403,,female,,Second,90,33,20,3,17,27,1,,Yes,
+1486,22,female,Civil,,53,14,74,11,30,7,1,High School,,
+1530,21,M,EEE,First,72,29,4,8,1,39,,,No,Sports
+1053,20,Male,CSE,1,87,48,37,18,14,15,,None,,
+1466,25,Male,ECE,Second,51,33,67,15,21,38,2,High School,no,
+1517,18,F,IT,Second,74,3,68,13,12,26,1,,Yes,NSS
+1602,,,IT,2,86,42,86,15,12,21,4,,No,NSS
+1222,22,male,EEE,3,57,25,36,12,9,40,3,High School,,
+1614,18,F,IT,Second,69,44,29,1,4,14,1,None,no,
+1767,,Male,Mechanical,3,92,33,97,18,28,39,,,,Music
+1224,,Male,CSE,2,67,10,17,17,3,11,0,Postgraduate,yes,Music
+1571,18,F,EEE,Second,51,4,70,5,,4,1,High School,,
+1516,19,F,,3,75,35,80,18,29,,0,Postgraduate,,None
+1454,,male,CSE,Second,82,10,21,16,19,32,5,None,,Music
+1249,23,F,IT,Second,64,37,83,13,18,,3,Postgraduate,Yes,Music
+1744,17,M,,4,98,47,87,12,10,29,2,Graduate,No,
+1063,17,,CSE,,89,7,9,14,3,14,5,Postgraduate,no,NSS
+1001,25,F,EEE,3,74,42,77,20,missing,25,2,None,yes,Sports
+1491,23,,EEE,Second,59,19,84,7,9,28,4,Postgraduate,Yes,
+1365,17,male,CSE,4,66,1,11,18,29,6,1,None,No,NSS
+1121,17,female,Mechanical,4,98,47,9,5,5,19,1,High School,Yes,
+1080,18,F,,4,77,46,96,3,0,1,,,No,Music
+1445,22,female,EEE,1,54,3,63,2,5,26,4,None,Yes,
+1758,18,F,,3,83,49,96,6,9,,4,,yes,Sports
+1101,24,male,Civil,4,97,4,62,16,15,34,0,High School,,Music
+1045,21,F,ECE,,63,32,35,5,10,37,0,High School,No,NSS
+1654,22,Female,EEE,First,78,21,90,19,6,,4,Postgraduate,yes,NSS
+1609,22,Female,,3,77,23,79,10,24,37,yes,Postgraduate,No,
+1117,18,female,Civil,Second,59,6,17,10,16,18,3,Graduate,no,None
+1568,21,,IT,4,,0,43,10,15,5,2,None,,None
+1481,18,M,Civil,2,84,20,26,10,27,34,4,Graduate,,
+1695,22,M,,4,47,35,8,16,21,8,2,Graduate,No,
+1332,25,F,IT,2,47,26,32,3,29,25,yes,,no,
+1236,17,Male,,1,93,17,28,19,13,25,3,Graduate,No,NSS
+1194,24,,IT,2,46,4,93,18,9,25,0,,Yes,Sports
+1353,17,,CSE,3,87,29,76,,1,14,,High School,No,
+1744,17,Female,CSE,,88,38,10,17,8,35,yes,High School,No,
+1391,25,,IT,1,82,42,74,8,4,21,2,,,
+1305,23,Female,Civil,1,67,NA,45,,11,17,1,Postgraduate,,Sports
+1388,20,male,EEE,,65,3,76,16,23,6,2,Graduate,yes,NSS
+1568,21,Female,,Second,42,6,77,18,17,34,5,,,NSS
+1220,21,Male,ECE,3,71,2,32,1,8,37,2,,no,
+1617,23,Female,,3,80,35,59,6,4,0,5,None,yes,NSS
+1287,22,female,,4,59,7,81,16,1,4,yes,None,yes,Music
+1795,21,F,EEE,4,70,13,24,17,10,17,0,Graduate,Yes,None
+1303,23,M,CSE,First,57,39,22,13,27,,5,None,No,NSS
+1056,24,M,ECE,2,52,39,4,11,21,16,2,None,yes,
+1554,23,female,CSE,First,51,27,60,1,8,28,5,High School,yes,
+1500,22,female,ECE,2,76,21,66,9,1,31,,None,,Sports
+1795,21,M,,,96,34,80,2,30,30,0,Graduate,,NSS
+1092,18,Male,ECE,1,52,34,76,15,29,27,2,None,Yes,NSS
+1730,-1,Female,Mechanical,1,58,50,71,0,20,39,yes,None,no,
+1662,25,female,Civil,Second,91,23,60,,1,16,0,Postgraduate,,
+1237,17,male,Civil,4,68,25,60,3,10,22,3,Postgraduate,No,NSS
+1715,,female,,4,54,2,70,8,27,23,3,Graduate,No,Music
+1498,,Female,Mechanical,2,41,13,48,11,,37,yes,Graduate,Yes,Sports
+1354,-1,,Civil,,86,12,34,17,14,9,2,None,No,Sports
+1038,22,,IT,3,83,5,8,0,6,13,1,Postgraduate,,
+1690,18,Female,CSE,First,56,2,97,6,29,19,yes,High School,Yes,None
+1723,24,male,EEE,4,94,27,22,3,,25,,High School,Yes,None
+1302,18,M,,First,66,27,8,6,22,14,1,High School,yes,None
+1312,,Male,EEE,First,55,19,61,14,10,22,yes,High School,no,Music
+1495,,,CSE,4,82,,98,18,21,40,5,High School,No,NSS
+1786,-1,male,Civil,First,64,12,88,17,,6,0,,Yes,NSS
+1227,21,male,EEE,3,83,25,8,3,17,29,yes,Postgraduate,yes,Sports
+1590,20,Male,Civil,1,88,31,3,2,,26,2,Graduate,Yes,
+1063,-1,female,CSE,1,88,0,13,10,8,16,yes,Graduate,no,
+1560,17,M,IT,1,58,40,87,3,23,17,4,None,no,
+1070,23,M,EEE,Second,93,40,60,12,19,35,yes,None,No,NSS
+1407,-1,female,CSE,Second,57,20,37,3,11,16,0,High School,No,Sports
